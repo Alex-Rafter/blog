@@ -1,4 +1,4 @@
-# First attempt at executing form md
+# First attempt at executing from md
 
 ```js
 const msg = 'Hello World'
