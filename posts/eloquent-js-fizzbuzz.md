@@ -38,8 +38,8 @@ Version two seems much nicer to read to me! I'm using an object here as a lookup
 
 ```js
 const obj = {
-	3: 'Fizz',
-	5: 'Buzz',
+    3: 'Fizz',
+    5: 'Buzz',
 }
 
 for (let i = 1; i < 101; i++) {
