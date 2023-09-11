@@ -1,4 +1,4 @@
-# Fizzbuzz exercise from Eloquent JS
+# Fizzbuzz Exercise from Eloquent JS
 
 I'm reading Eloquent JavaScript at the moment as part of my current learning project (a loop round over some Front End fundamentals). As i go i'm working through the exersises in the book. I'm also using ChatGPT to give me other ideas for exercises so i can test myself as i go.
 

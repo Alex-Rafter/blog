@@ -5,4 +5,24 @@ I'm experimenting with starting a blog. I want somewhere to put stuff that i wri
 This could very likley end up being a temporary solution,  and i might end up using something more made for the task of blogging. But for now i just want to use something simple that gets out of the way while i focus on writing to 'finished' (contrasted with the reams of unpolished notes i have lying about). Also, i like GH's defaults when it comes to syntax highlighting and mermaid support so this will do just fine for the time being.
 
 ## Posts
-- [Fizzbuzz exercise from Eloquent JS](posts/eloquent-js-fizzbuzz.md)
+
+<table>
+<thead>
+    <tr>
+        <th>Posts</th>
+        <th>Tags</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>
+        <a href="posts/eloquent-js-fizzbuzz.md">
+            Fizzbuzz Exercise from Eloquent JS
+        </a>
+        </td>
+        <td>
+            JS
+        </td>
+    </tr>
+</tbody>
+</table>
