@@ -18,13 +18,13 @@ I don't like version one at all really. It has to do with the verbosity of using
 const divisibleByThree = (num) => num % 3 === 0
 const divisibleByFive = (num) => num % 5 === 0
 
-for (let i = 1; i < 100; i++) {
+for (let i = 1; i < 101; i++) {
     if (divisibleByThree(i) && divisibleByFive(i)) {
-        console.log(`FizzBuzz(${i})`)
+        console.log(`FizzBuzz`)
     } else if (divisibleByThree(i)) {
-        console.log(`Fizz(${i})`)
+        console.log(`Fizz`)
     } else if (divisibleByFive(i)) {
-        console.log(`Buzz(${i})`)
+        console.log(`Buzz`)
     } else {
         console.log(`${i}`)
     }
@@ -42,7 +42,7 @@ const obj = {
 	5: 'Buzz',
 }
 
-for (let i = 1; i < 100; i++) {
+for (let i = 1; i < 101; i++) {
 	let output = ''
 	Object.keys(obj).forEach((key) => (output += i % key === 0 ? obj[key] : ''))
 	console.log(output || i)
